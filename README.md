@@ -12,7 +12,6 @@ Watch-It is a web application designed to help users track and discover movies a
 ## Technologies used
 - **Frontend:** React
 - **State Management & API Handling:** Axios
-- **UI & Icons:** React Bootstrap Icons
 - **API Integration:** The Movie Database (TMDb) API
 
 ## Installation
